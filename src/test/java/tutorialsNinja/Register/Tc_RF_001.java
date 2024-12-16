@@ -1,5 +1,7 @@
-package tutorialsNinja.Register;
+//Verify Registering an Account by providing only the Mandatory fields
+ 
 
+package tutorialsNinja.Register;
 import java.time.Duration;
 import java.util.Date;
 
